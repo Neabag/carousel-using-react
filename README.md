@@ -1,4 +1,7 @@
+##checkout the live demo using the link below
+`https://elegant-bhabha-964df6.netlify.app/`
 
+Run `npm intsall` to get all node_modules
 
 ## Available Scripts
 
